@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "かたち",
+  "base_artist": "安月名莉子",
+  "createdAt": "2026-01-12T13:50:17.281034Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かたち あるもの",
+      "artist": "柴咲コウ",
+      "has_synced": true,
+      "path": "select/01_かたち_あるもの_柴咲コウ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "かたち あるもの",
+      "artist": "Ko Shibasaki",
+      "has_synced": true,
+      "path": "select/02_かたち_あるもの_Ko_Shibasaki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "柴咲コウ - かたち　あるもの",
+      "artist": "Ko Shibasaki",
+      "has_synced": false,
+      "path": "select/03_柴咲コウ_-_かたち_あるもの_Ko_Shibasaki.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "かたち あるもの",
+      "artist": "Kou Shibasaki",
+      "has_synced": true,
+      "path": "select/04_かたち_あるもの_Kou_Shibasaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "かたち あるもの (Backing Track)",
+      "artist": "Kou Shibasaki",
+      "has_synced": false,
+      "path": "select/05_かたち_あるもの_(Backing_Track)_Kou_Shibasaki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "かたち あるもの",
+      "artist": "765PRO",
+      "has_synced": true,
+      "path": "select/06_かたち_あるもの_765PRO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "かたち あるもの",
+      "artist": "柴咲コウ",
+      "has_synced": true,
+      "path": "select/07_かたち_あるもの_柴咲コウ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "かたち あるもの",
+      "artist": "Shibasaki, Kou",
+      "has_synced": true,
+      "path": "select/08_かたち_あるもの_Shibasaki,_Kou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "かたち あるもの (Backing Track)",
+      "artist": "Shibasaki, Kou",
+      "has_synced": false,
+      "path": "select/09_かたち_あるもの_(Backing_Track)_Shibasaki,_Kou.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "かたち",
+      "artist": "安月名莉子",
+      "has_synced": true,
+      "path": "select/10_かたち_安月名莉子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かたち",
+      "artist": "安月名莉子",
+      "has_synced": false,
+      "path": "select/pl_01_かたち_安月名莉子.txt"
+    }
+  ]
+}
